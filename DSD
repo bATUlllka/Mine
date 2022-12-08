@@ -11,7 +11,7 @@ void print();
 
 };
 
-void vyrazhenie::set()
+)
 {
 cout « "Input x: "; cin » x;
 cout « "Input y: "; cin » y;
@@ -26,7 +26,7 @@ cout « "z = " « z « endl;
 cout « "A = " « A « endl;
 }
 
-void vyrazhenie::run()
+reshenie::run::print
 {
 double a, b, c, d, e, f;
 a = fabs(x);
@@ -35,7 +35,7 @@ c = pow(y, b);
 d = log(c);
 e = x - (y / 2);
 f = sin(atan(z)) * sin(atan(z));
-A = d * e + f;
+
 }
 
 int main()
