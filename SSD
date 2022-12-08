@@ -9,6 +9,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 /**
+сашка
  */
 public class JavaApplication1 {
 public static void main(String[] args) throws FileNotFoundException, IOException {
