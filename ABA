@@ -16,7 +16,7 @@ void print();
 
 };
 
-void vyrazhenie::set()
+reshenie::run::print
 {
 cout « "Input x: "; cin » x;
 cout « "Input y: "; cin » y;
@@ -31,7 +31,7 @@ cout « "z = " « z « endl;
 cout « "A = " « A « endl;
 }
 
-void vyrazhenie::run())
+
 {
 double a, b, c, d, e, f;
 a = fabs(x);
